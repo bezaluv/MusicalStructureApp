@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="first_activity">This Is First Activity.</string>
+    <string name="click_here">Click Here To Open The Second Activity</string>
+    <string name="activity_collection">Collection</string>
+    <string name="list_item">List Item Icon</string>
+</resources>
